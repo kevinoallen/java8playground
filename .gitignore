@@ -1,0 +1,6 @@
+/koautils/target/
+/koautils/test-output/*
+/**/.settings/
+*.project
+*.DS_Store
+*.classpath
